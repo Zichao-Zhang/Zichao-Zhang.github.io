@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Zichao Zhang"
-  avatar           : "profile_zzc.png"
-  bio              : "Computer Engineering Student"
+  avatar           : "zzc.jpeg"
+  bio              : #"Computer Engineering Student"
   location         : "State College, Pennsylvania"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
